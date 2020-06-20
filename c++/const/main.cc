@@ -6,6 +6,9 @@ public:
     : pText(pText) {
 
     }
+    // const char& operator[] (std::size_t position) const {
+    //     return pText[position];
+    // }
     char& operator[] (std::size_t position) const {
         return pText[position];
     }
