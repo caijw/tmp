@@ -5,3 +5,9 @@
 143	145	1596424043	obj/libhello_static.a	381c922c339a1d1c
 143	164	1596424043	libhello_shared.so	8fd1756ff28bc6
 164	188	1596424043	hello	d2fc09bd0f6a46a1
+0	20	1596424474	obj/libhello_shared.hello_shared.o	599689491788eb2
+1	20	1596424474	obj/libhello_static.hello_static.o	8bfb83e4751e099d
+20	22	1596424474	obj/libhello_static.a	381c922c339a1d1c
+0	26	1596424474	obj/hello.hello.o	4293d7198cbb8eb5
+20	39	1596424474	libhello_shared.so	8fd1756ff28bc6
+39	62	1596424474	hello	d2fc09bd0f6a46a1

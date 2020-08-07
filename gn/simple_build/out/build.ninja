@@ -1,7 +1,7 @@
 ninja_required_version = 1.7.2
 
 rule gn
-  command = ../../../out/gn --root=./.. -q --C gen .
+  command = ../../../../gn/out/gn --root=./.. -q --C gen .
   description = Regenerating ninja files
 
 build build.ninja: gn
